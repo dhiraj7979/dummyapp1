@@ -1,3 +1,3 @@
 Website Layout Image
 
-![Alt text](public/screenshot.png?raw=true "Screenshot")
+![alt text](https://github.com/dhiraj7979/dummyapp1/master/public/screenshot.png?raw=true)
