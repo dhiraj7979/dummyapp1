@@ -1,0 +1,54 @@
+
+.navbar {
+    display: grid;
+    grid-template-columns: 1fr 5fr 1fr 1fr 1fr 2fr;
+    height: 3rem;
+    color: #777;
+    align-items: center;
+}
+
+.logoLink {
+    text-decoration: none;
+    color: inherit;
+    color: tomato;
+    font-size: 22px;
+    font-weight: 600;
+    margin-left: 0.75rem;
+}
+
+.searchBar {
+    display: grid;
+    grid-template-columns: 0.4fr 5fr;
+    column-gap: 0rem;
+    padding-top: 15px;
+    padding-left: 10px;
+}
+
+.searchInput {
+    display: block;
+    height: 2rem;
+    border: none;
+    outline: none;
+    color: grey;
+}
+
+.navbarText {
+    text-align: center;
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.navbarProfile {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+}
+
+.profilePic {
+    width: 30px;
+    height: auto;
+    border-radius: 50%;
+    display: block;
+    margin-left: 35px;
+}

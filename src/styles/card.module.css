@@ -1,0 +1,13 @@
+
+.card {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    justify-content: left;
+    margin-bottom: 35px;
+}
+
+.uploadNLike {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: space-around;
+}
